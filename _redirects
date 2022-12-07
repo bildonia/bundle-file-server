@@ -1,3 +1,4 @@
 # Redirects from what the browser requests to what we serve
-/              /root.json
-/tilemap       /tilemap/root.json
+/                               /root.json
+/tilemap                        /tilemap/root.json
+/tile/L13/3026/2033.bundle      /tile/L13/R0b80C0780.bundle
