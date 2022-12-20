@@ -3,3 +3,5 @@
 /tilemap                                /tilemap/root.json
 /florida                                /florida/root.json
 /florida/tilemap                        /florida/tilemap/root.json
+/florida_detailed                       /florida_detailed/root.json
+/florida_detailed/tilemap               /florida_detailed/tilemap/root.json
